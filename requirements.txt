@@ -2,3 +2,6 @@ streamlit
 pandas
 scikit-learn
 joblib
+numpy
+plotly
+datetime
